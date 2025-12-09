@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">QrScanner</string>
+    <string name="role_selection_title">Select Your Role</string>
+    <string name="user_role">User</string>
+    <string name="admin_role">Administrator</string>
+    <string name="events_title">Your Events</string>
+    <string name="show_qr_code">Show QR Code</string>
+    <string name="qr_hint">Show this QR code to the administrator</string>
+    <string name="allow">Allow</string>
+    <string name="deny">Deny</string>
+    <string name="flashlight">Flashlight</string>
+    <string name="event_details_title">Event Details</string>
+    <string name="scanner_title">QR Scanner</string>
+</resources>
